@@ -1,1 +1,2 @@
-# Arquitectura_de_software2
+# Curso "Arquitectura"
+Ficheros y ejercicios del curso de Jenkins 
